@@ -7,7 +7,7 @@ about:
   head: 83fc038
   archived: true
   latestVersion: v0.15.4
-  collectedAt: 2026-09-04T19:56:32Z
+  collectedAt: 2026-09-04T20:43:55Z
 timeline:
   created: 2018-02-02
   lastCommit: 2025-03-28
@@ -82,6 +82,39 @@ total:
   openIssue: 82
   commit: 238
 ---
+path: /home/runner/.x-repo/github.com/git-chglog/git-chglog
+collectedAt: 2026-09-04T20:43:55Z
+loc:
+  Go:
+    code: 6055
+    comments: 263
+    blanks: 1106
+    files: 58
+  Makefile:
+    code: 78
+    comments: 11
+    blanks: 19
+    files: 1
+  Dockerfile:
+    code: 8
+    comments: 0
+    blanks: 4
+    files: 1
+  Markdown:
+    code: 0
+    comments: 894
+    blanks: 316
+    files: 7
+  Text:
+    code: 0
+    comments: 28
+    blanks: 12
+    files: 2
+total:
+  code: 6261
+  comments: 1256
+  blanks: 1491
+  files: 69
 ---
 date: "2026-08-24"
 repo:
