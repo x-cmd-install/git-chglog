@@ -6,7 +6,7 @@
 
 [DEPRECATED] CHANGELOG generator implemented in Go (Golang) -> Use now the actively maintained git-cliff
 
-![git-chglog](https://repo.x-cmd.io/git-chglog.svg)
+![git-chglog](https://repo.x-cmd.io/git-chglog.svg?lang=zh)
 
 ## 安装
 
@@ -25,7 +25,22 @@ x install git-chglog
 - **最新版本**: `v0.15.4` (2023-02-15)
 - **最近提交**: 2025-03-28
 - **Release 含资产**: 11 个
-- **发布时间**: 2023-02-15T07:50:17Z
+
+## Release 资产
+
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [checksums.txt](https://github.com/git-chglog/git-chglog/releases/download/v0.15.4/checksums.txt) | 1.0 KiB | `other` |
+| [git-chglog_0.15.4_darwin_amd64.tar.gz](https://github.com/git-chglog/git-chglog/releases/download/v0.15.4/git-chglog_0.15.4_darwin_amd64.tar.gz) | 3.5 MiB | `native/darwin/x64` |
+| [git-chglog_0.15.4_darwin_arm64.tar.gz](https://github.com/git-chglog/git-chglog/releases/download/v0.15.4/git-chglog_0.15.4_darwin_arm64.tar.gz) | 3.3 MiB | `native/darwin/arm64` |
+| [git-chglog_0.15.4_linux_386.tar.gz](https://github.com/git-chglog/git-chglog/releases/download/v0.15.4/git-chglog_0.15.4_linux_386.tar.gz) | 3.2 MiB | `native/unknown` |
+| [git-chglog_0.15.4_linux_amd64.tar.gz](https://github.com/git-chglog/git-chglog/releases/download/v0.15.4/git-chglog_0.15.4_linux_amd64.tar.gz) | 3.3 MiB | `native/linux/x64` |
+| [git-chglog_0.15.4_linux_arm64.tar.gz](https://github.com/git-chglog/git-chglog/releases/download/v0.15.4/git-chglog_0.15.4_linux_arm64.tar.gz) | 3.1 MiB | `native/linux/arm64` |
+| [git-chglog_0.15.4_linux_armv6.tar.gz](https://github.com/git-chglog/git-chglog/releases/download/v0.15.4/git-chglog_0.15.4_linux_armv6.tar.gz) | 3.2 MiB | `native/linux/arm` |
+| [git-chglog_0.15.4_windows_386.zip](https://github.com/git-chglog/git-chglog/releases/download/v0.15.4/git-chglog_0.15.4_windows_386.zip) | 3.4 MiB | `native/win/x64` |
+| [git-chglog_0.15.4_windows_amd64.zip](https://github.com/git-chglog/git-chglog/releases/download/v0.15.4/git-chglog_0.15.4_windows_amd64.zip) | 3.4 MiB | `native/win/x64` |
+| [git-chglog_0.15.4_windows_arm64.zip](https://github.com/git-chglog/git-chglog/releases/download/v0.15.4/git-chglog_0.15.4_windows_arm64.zip) | 3.2 MiB | `native/win/arm64` |
+| [git-chglog_0.15.4_windows_armv6.zip](https://github.com/git-chglog/git-chglog/releases/download/v0.15.4/git-chglog_0.15.4_windows_armv6.zip) | 3.3 MiB | `native/win/x64` |
 
 ## 流行度
 
@@ -74,4 +89,4 @@ git-chglog 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/instal
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T03:47:24Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T15:56:50Z._
