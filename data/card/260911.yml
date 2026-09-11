@@ -7,7 +7,7 @@ about:
   latestVersion: "v0.15.4"
   latestRelease: "v0.15.4"
   latestPrerelease: ""
-  collectedAt: 2026-09-11T00:22:47Z
+  collectedAt: 2026-09-11T03:44:44Z
 timeline:
   created: 2018-02-02
   lastCommit: 2025-03-28
@@ -85,7 +85,7 @@ total:
   commit: 238
 ---
 path: /home/runner/.x-repo/github.com/git-chglog/git-chglog
-collectedAt: 2026-09-11T00:22:48Z
+collectedAt: 2026-09-11T03:44:46Z
 loc:
   Go:
     code: 6055
