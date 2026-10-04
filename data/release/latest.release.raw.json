@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 1024,
       "digest": null,
-      "download_count": 5018,
+      "download_count": 5020,
       "created_at": "2023-02-15T07:50:22Z",
       "updated_at": "2023-02-15T07:50:22Z",
       "browser_download_url": "https://github.com/git-chglog/git-chglog/releases/download/v0.15.4/checksums.txt"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 3498406,
       "digest": null,
-      "download_count": 185481,
+      "download_count": 185536,
       "created_at": "2023-02-15T07:50:20Z",
       "updated_at": "2023-02-15T07:50:21Z",
       "browser_download_url": "https://github.com/git-chglog/git-chglog/releases/download/v0.15.4/git-chglog_0.15.4_linux_amd64.tar.gz"
