@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 1024,
       "digest": null,
-      "download_count": 5098,
+      "download_count": 5103,
       "created_at": "2023-02-15T07:50:22Z",
       "updated_at": "2023-02-15T07:50:22Z",
       "browser_download_url": "https://github.com/git-chglog/git-chglog/releases/download/v0.15.4/checksums.txt"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 3622678,
       "digest": null,
-      "download_count": 12970,
+      "download_count": 12972,
       "created_at": "2023-02-15T07:50:17Z",
       "updated_at": "2023-02-15T07:50:18Z",
       "browser_download_url": "https://github.com/git-chglog/git-chglog/releases/download/v0.15.4/git-chglog_0.15.4_darwin_amd64.tar.gz"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 3482642,
       "digest": null,
-      "download_count": 56864,
+      "download_count": 56989,
       "created_at": "2023-02-15T07:50:17Z",
       "updated_at": "2023-02-15T07:50:18Z",
       "browser_download_url": "https://github.com/git-chglog/git-chglog/releases/download/v0.15.4/git-chglog_0.15.4_darwin_arm64.tar.gz"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 3498406,
       "digest": null,
-      "download_count": 186605,
+      "download_count": 186815,
       "created_at": "2023-02-15T07:50:20Z",
       "updated_at": "2023-02-15T07:50:21Z",
       "browser_download_url": "https://github.com/git-chglog/git-chglog/releases/download/v0.15.4/git-chglog_0.15.4_linux_amd64.tar.gz"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 3204913,
       "digest": null,
-      "download_count": 4266,
+      "download_count": 4285,
       "created_at": "2023-02-15T07:50:21Z",
       "updated_at": "2023-02-15T07:50:21Z",
       "browser_download_url": "https://github.com/git-chglog/git-chglog/releases/download/v0.15.4/git-chglog_0.15.4_linux_arm64.tar.gz"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 3612055,
       "digest": null,
-      "download_count": 2135,
+      "download_count": 2138,
       "created_at": "2023-02-15T07:50:19Z",
       "updated_at": "2023-02-15T07:50:20Z",
       "browser_download_url": "https://github.com/git-chglog/git-chglog/releases/download/v0.15.4/git-chglog_0.15.4_windows_amd64.zip"
