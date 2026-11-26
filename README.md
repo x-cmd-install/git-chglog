@@ -26,6 +26,16 @@ Total: **6,141** lines of code across **69** files in the top 5 languages.
 | Markdown | 0 | 894 | 316 | 7 |
 | Text | 0 | 28 | 12 | 2 |
 
+## OpenSSF Scorecard
+
+Overall score: **2.9 / 10**
+
+Lowest-scoring checks:
+
+- **Code-Review** (1/10) — Found 3/16 approved changesets -- score normalized to 1
+- **Maintained** (0/10) — project is archived
+- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
+
 ## Source
 
 - **Upstream**: <https://github.com/git-chglog/git-chglog>
@@ -50,12 +60,12 @@ Total: **6,141** lines of code across **69** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-26 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-26 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-08-27 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-05-29 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-11-30 | 0 | 0 | 1 | 0 | 0 | 0 |
-| last720d | 2024-12-05 | 0 | 0 | 7 | 0 | 3 | 2 |
+| 30d | 2026-10-27 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-27 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-08-28 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-05-30 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-12-01 | 0 | 0 | 1 | 0 | 0 | 0 |
+| last720d | 2024-12-06 | 0 | 0 | 7 | 0 | 3 | 2 |
 
 ## Release assets
 
@@ -90,4 +100,4 @@ Install metadata for git-chglog lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261125.yml` · 2026-11-25T07:40:33Z._
+_Snapshot: `data/card/261126.yml` · 2026-11-26T07:30:32Z._
